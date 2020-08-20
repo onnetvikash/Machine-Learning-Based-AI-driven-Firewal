@@ -2,9 +2,8 @@
 
 Machine learning based Web Application firewall for detection attacks such as SQL injections, XSS and shell script injections. 
 
-Course project for TDA602
-Contributors: Filip Granqvist & Oskar Holmberg
-
+Course project for Mtech CSE
+Contributors: Vikash Kumar and Ramya P L
 Requirements:
  - Python 3.x
  - Jupyter notebook
